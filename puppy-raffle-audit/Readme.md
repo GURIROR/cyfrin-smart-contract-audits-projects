@@ -25,8 +25,8 @@ This repository contains a smart contract audit for **Puppy Raffle**, a decentra
 | **Total**      | 16    |
 
 📄 Read the full audit report in:
-- [`audit.md`](./audit.md) — Markdown format
-- [`audit.pdf`](./audit.pdf) — Polished PDF format
+- [`puppy-raffle-audit.md`](./audit.md) — Markdown format
+- [`puppy-raffle-audit.pdf`](./audit.pdf) — Polished PDF format
 
 ---
 
